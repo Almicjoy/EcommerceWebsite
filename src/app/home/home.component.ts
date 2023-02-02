@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
-
+  ImagePath:string;
+  constructor() {
+    //image location
+    this.ImagePath = '/assets/ecommerceimage.png'
+  }
 }

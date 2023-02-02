@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+a {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.content {
+  padding-top: 5%;
+}
+
+.home-image {
+  width: 600px;
+  height: 300px;
+}
+
+.section {
+  padding-bottom: 5%;
+}

@@ -23,6 +23,6 @@ import { ProductsComponent } from './products/products.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [LayoutComponent]
 })
 export class AppModule { }
